@@ -38,12 +38,11 @@ Novice frontend-developer with economic education. Confident knowledge of HTML, 
 
 ### __Work experience__:
 
-**Web Developer**
-
+**Web Developer**  
 from 08.2019 to now (5 months)  
 Freelance, Moscow (internet)  
 
-Creation of adaptive and responsive sites :  
+__Creation of adaptive and responsive sites__:  
 - Writing Semantic HTML with Accessibility;
 - Using BEM methodology (dividing the user interface into independent blocks);
 - Using task runner Gulp, NPM and CSS preprocessor(Sass);
@@ -57,8 +56,9 @@ Creation of adaptive and responsive sites :
 
 ### __Education__
 
-National Transport University  
+***The Rolling Scopes School*** <https://school.rollingscopes.com/>, 02.2020
 
+***National Transport University***  
 Master's degree in economics, Faculty of Economics and Law, Kyiv  
 Higher, from 09.2008 to 08.2013 (4 years 11 months)  
 
