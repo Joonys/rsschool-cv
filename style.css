@@ -52,3 +52,70 @@ body {
 .contacts__link:hover {
   color: #000000;
 }
+
+.intro {
+  margin-bottom: 30px;
+}
+
+.skills__list {
+  list-style-type: circle;
+  margin-bottom: 30px;
+}
+
+.skills__item {
+  line-height: 35px;
+}
+
+.work {
+  margin-bottom: 40px;
+}
+
+.work__subtitle {
+  font-weight: bold;
+}
+
+.work__list {
+  list-style-type: circle;
+}
+
+.education__subtitle {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.education__school {
+  margin-bottom: 20px;
+}
+
+.education__descr {
+  margin: 0;
+  margin-bottom: 5px;
+}
+
+.education__link {
+  text-decoration: none;
+  color: blueviolet;
+  transition: color 0.1s;
+}
+
+.education__link:hover {
+  opacity: 0.4;
+}
+
+.education__column {
+  margin-bottom: 40px;
+}
+
+.education__list {
+  list-style-type: circle;
+}
+
+.about__subtitle {
+  font-style: 16px;
+  font-weight: bold;
+}
+
+.about__list {
+  list-style-type: circle;
+}
+
