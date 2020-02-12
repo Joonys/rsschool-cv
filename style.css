@@ -119,3 +119,16 @@ body {
   list-style-type: circle;
 }
 
+.footer {
+  padding-top: 50px;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.social__item {
+  margin-left: 40px;
+}
